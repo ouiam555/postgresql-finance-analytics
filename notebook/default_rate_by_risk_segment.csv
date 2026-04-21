@@ -1,0 +1,10 @@
+segment_client,categorie_risque,total_transactions,nombre_defauts,taux_defaut
+Premium,Medium,26,0,0.0
+Risque,High,350,0,0.0
+Standard,Medium,958,0,0.0
+Risque,Low,2,0,0.0
+Standard,Low,123,0,0.0
+Standard,High,14,0,0.0
+Premium,Low,299,0,0.0
+Risque,,1,0,0.0
+Risque,Medium,31,0,0.0
